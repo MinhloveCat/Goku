@@ -1,0 +1,38 @@
+def main():
+    # --- PHẦN 1: ĐĂNG NHẬP ---
+    print("HỆ THỐNG QUẢN LÝ SINH VIÊN")
+    while True:
+        mat_khau = input("Nhập mật khẩu để vào (Gợi ý: 123): ")
+        if mat_khau == "123":
+            print("Đăng nhập thành công!")
+            break
+        else:
+            print("Sai mật khẩu, vui lòng nhập lại!")
+
+    # --- PHẦN 2: MENU CHÍNH ---
+    while True:
+        print("\n=== MENU CHỨC NĂNG ===")
+        print("1. Xem danh sách lớp")
+        print("2. Thêm sinh viên")
+        print("3. Tìm kiếm sinh viên")
+        print("4. Thoát chương trình")
+
+        chon = input("Mời chọn chức năng (1-4): ")
+
+        if chon == "1":
+            hien_thi_bang()
+
+        elif chon == "2":
+            them_sinh_vien()
+        elif chon == "3":
+            tim_kiem()
+        elif chon == "4":
+            print("Tạm biệt!")
+            break  # Thoát vòng lặp while -> Kết thúc chương trình
+        else:
+            print("Lựa chọn không hợp lệ!")
+
+
+# Chạy chương trình
+if __name__ == "__main__":
+    main()
