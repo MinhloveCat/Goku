@@ -1,63 +1,126 @@
-﻿MSSV|Họ và tên|Ngày sinh|Giới tính
-25021611|Bùi Phạm Hải Anh|07/12/2007|Nam
-25021619|Lê Đăng Tuấn Anh|19/04/2007|Nam
-25021626|Nguyễn Đức Anh|04/06/2007|Nam
-25021633|Nguyễn Quốc Anh|19/09/2007|Nam
-25021641|Trần Phương Anh|10/03/2007|Nữ
-25021649|Lý Gia Bảo|25/12/2007|Nam
-25021657|Lê Viết Công|12/06/2007|Nam
-25021665|Võ Mạnh Cường|27/09/2007|Nam
-25021661|Nguyễn Hùng Cường|04/10/2007|Nam
-25021672|Hoàng Xuân Diệu|22/04/2007|Nam
-25021679|Lê Quang Dũng|26/03/2007|Nam
-25021686|Phạm Minh Dũng|28/08/2007|Nam
-25021694|Nguyễn Văn Việt Duy|09/07/2007|Nam
-25021702|Trần Lâm Dương|03/03/2007|Nữ
-25021711|Ngô Minh Đạt|06/05/2007|Nam
-25021727|Hoàng Ngọc Đức|05/12/2007|Nam
-25021734|Nguyễn Minh Đức|01/12/2007|Nam
-25021741|Trương Anh Đức|15/01/2007|Nam
-25021742|Dương Hoàng Gia|31/10/2007|Nam
-25021750|Nguyễn Tiến Hải|11/09/2007|Nam
-25021757|Trần Huy Hiệp|21/03/2007|Nam
-25021764|Nguyễn Ngọc Hiếu|04/02/2007|Nam
-25021771|Phạm Huy Hiệu|13/02/2007|Nam
-25021778|Trần Lê Việt Hoàng|05/02/2007|Nam
-25021785|Hoàng Minh Hùng|30/07/2007|Nam
-25021794|Đinh Quốc Huy|16/05/2007|Nam
-25021801|Nguyễn Phúc Huy|16/02/2007|Nam
-25021809|Lê Thành Hưng|28/02/2007|Nam
-25021816|Nguyễn Trần Thảo Hương|05/11/2007|Nữ
-25021823|Trần Vũ Đức Khang|07/02/2007|Nam
-25021830|Trần Mậu Gia Khánh|13/12/2007|Nam
-25021838|Vũ Trần Khôi|11/09/2007|Nam
-25021847|Nguyễn Trang Linh|09/02/2007|Nữ
-25021844|Đào Quang Linh|24/12/2007|Nam
-25021854|Nguyễn Nhật Long|01/10/2007|Nam
-25021861|Bùi Thị Huyền Ly|04/10/2007|Nữ
-25021868|Bùi Lê Minh|30/04/2007|Nam
-25021876|Nguyễn Đức Minh|29/08/2007|Nam
-25021883|Phạm Hữu Ngọc Minh|27/09/2007|Nam
-25021891|Trần Nhật Minh|30/01/2007|Nam
-25021899|Đồng Thị Trà My|07/10/2007|Nữ
-25021907|Phùng Tiến Nam|03/09/2007|Nam
-25021915|Vũ Bảo Ngọc|20/11/2007|Nữ
-25021922|Bùi Đồng Nhất|12/12/2007|Nam
-25021929|Nguyễn Thuận Phát|28/03/2007|Nam
-25021937|Nguyễn Văn Phong|06/02/2007|Nam
-25021938|Phạm Gia Phong|09/01/2007|Nam
-25021943|Hoàng Minh Phúc|28/06/2007|Nam
-25021953|Nguyễn Hữu Nhật Quang|16/01/2007|Nam
-25021961|Nguyễn Hồng Quân|13/01/2007|Nam
-25021971|Nguyễn Trọng Sơn|22/09/2007|Nam
-25021979|Cung Đình Tiến|30/08/2007|Nam
-25021986|Trịnh Anh Tú|20/05/2007|Nam
-25021993|Nguyễn Thanh Tuấn|29/12/2007|Nam
-25021994|Phạm Minh Tuấn|13/03/2007|Nam
-25022001|Lê Sơn Tùng|29/10/2007|Nam
-25022009|Lê Tiến Thành|01/01/2007|Nam
-25022017|Bùi Duy Thắng|19/05/2007|Nam
-25022024|Trần Thị Thu Thủy|29/10/2007|Nữ
-25022031|Hoàng Đức Trung|25/07/2007|Nam
-25022038|Nguyễn Thiên Trường|22/09/2007|Nam
-25022045|Hoàng Anh Vũ|10/08/2007|Nam
+﻿MSSV|Họ và tên|Ngày sinh|Giới tính|Email|Chuyên cần|Giữa kì|Cuối kì|GPA|Xếp loại
+
+25021611|Bùi Phạm Hải Anh|07/12/2007|Nam|25021611@vnu.edu.vn|10|7.9|8.7|3.4|B+
+
+25021619|Lê Đăng Tuấn Anh|19/04/2007|Nam|25021619@vnu.edu.vn|10|9.7|8.3|3.6|B+
+
+25021626|Nguyễn Đức Anh|04/06/2007|Nam|25021626@vnu.edu.vn|10|8.5|8.7|3.5|B+
+
+25021633|Nguyễn Quốc Anh|19/09/2007|Nam|25021633@vnu.edu.vn|10|7.9|8.5|3.4|B+
+
+25021641|Trần Phương Anh|10/03/2007|Nữ|25021641@vnu.edu.vn|10|7.5|9.6|3.6|B+
+
+25021649|Lý Gia Bảo|25/12/2007|Nam|25021649@vnu.edu.vn|10|7.2|7.4|3.0|B
+
+25021657|Lê Viết Công|12/06/2007|Nam|25021657@vnu.edu.vn|10|7.4|8.4|3.3|B+
+
+25021665|Võ Mạnh Cường|27/09/2007|Nam|25021665@vnu.edu.vn|10|7.9|7.3|3.1|B
+
+25021661|Nguyễn Hùng Cường|04/10/2007|Nam|25021661@vnu.edu.vn|10|9.6|7.2|3.3|B
+
+25021672|Hoàng Xuân Diệu|22/04/2007|Nam|25021672@vnu.edu.vn|10|7.3|8.7|3.4|B+
+
+25021679|Lê Quang Dũng|26/03/2007|Nam|25021679@vnu.edu.vn|10|8.1|8.5|3.4|B+
+
+25021686|Phạm Minh Dũng|28/08/2007|Nam|25021686@vnu.edu.vn|10|8.6|7.6|3.3|B
+
+25021694|Nguyễn Văn Việt Duy|09/07/2007|Nam|25021694@vnu.edu.vn|10|9.7|7.6|3.4|B+
+
+25021702|Trần Lâm Dương|03/03/2007|Nữ|25021702@vnu.edu.vn|10|7.5|8.6|3.4|B+
+
+25021711|Ngô Minh Đạt|06/05/2007|Nam|25021711@vnu.edu.vn|10|8.0|9.6|3.7|B+
+
+25021727|Hoàng Ngọc Đức|05/12/2007|Nam|25021727@vnu.edu.vn|10|9.1|7.2|3.2|B
+
+25021734|Nguyễn Minh Đức|01/12/2007|Nam|25021734@vnu.edu.vn|10|8.4|7.5|3.2|B
+
+25021741|Trương Anh Đức|15/01/2007|Nam|25021741@vnu.edu.vn|10|9.0|8.4|3.5|B+
+
+25021742|Dương Hoàng Gia|31/10/2007|Nam|25021742@vnu.edu.vn|10|7.9|7.6|3.2|B
+
+25021750|Nguyễn Tiến Hải|11/09/2007|Nam|25021750@vnu.edu.vn|10|7.8|8.1|3.3|B
+
+25021757|Trần Huy Hiệp|21/03/2007|Nam|25021757@vnu.edu.vn|10|9.8|7.9|3.5|B+
+
+25021764|Nguyễn Ngọc Hiếu|04/02/2007|Nam|25021764@vnu.edu.vn|10|9.4|8.5|3.6|B+
+
+25021771|Phạm Huy Hiệu|13/02/2007|Nam|25021771@vnu.edu.vn|10|8.3|9.0|3.6|B+
+
+25021778|Trần Lê Việt Hoàng|05/02/2007|Nam|25021778@vnu.edu.vn|10|8.6|7.1|3.1|B
+
+25021785|Hoàng Minh Hùng|30/07/2007|Nam|25021785@vnu.edu.vn|10|9.9|8.1|3.5|B+
+
+25021794|Đinh Quốc Huy|16/05/2007|Nam|25021794@vnu.edu.vn|10|9.8|9.2|3.8|A
+
+25021801|Nguyễn Phúc Huy|16/02/2007|Nam|25021801@vnu.edu.vn|10|10.0|8.7|3.7|B+
+
+25021809|Lê Thành Hưng|28/02/2007|Nam|25021809@vnu.edu.vn|10|9.1|9.3|3.7|A
+
+25021816|Nguyễn Trần Thảo Hương|05/11/2007|Nữ|25021816@vnu.edu.vn|10|9.2|8.0|3.4|B+
+
+25021823|Trần Vũ Đức Khang|07/02/2007|Nam|25021823@vnu.edu.vn|10|7.6|7.7|3.2|B
+
+25021830|Trần Mậu Gia Khánh|13/12/2007|Nam|25021830@vnu.edu.vn|10|9.0|9.6|3.8|A
+
+25021838|Vũ Trần Khôi|11/09/2007|Nam|25021838@vnu.edu.vn|10|10.0|7.6|3.4|B+
+
+25021847|Nguyễn Trang Linh|09/02/2007|Nữ|25021847@vnu.edu.vn|10|9.4|7.9|3.4|B+
+
+25021844|Đào Quang Linh|24/12/2007|Nam|25021844@vnu.edu.vn|10|7.9|8.3|3.3|B+
+
+25021854|Nguyễn Nhật Long|01/10/2007|Nam|25021854@vnu.edu.vn|10|7.0|9.1|3.4|B+
+
+25021861|Bùi Thị Huyền Ly|04/10/2007|Nữ|25021861@vnu.edu.vn|10|9.3|8.5|3.6|B+
+
+25021868|Bùi Lê Minh|30/04/2007|Nam|25021868@vnu.edu.vn|10|9.6|7.0|3.2|B
+
+25021876|Nguyễn Đức Minh|29/08/2007|Nam|25021876@vnu.edu.vn|10|7.4|8.2|3.3|B
+
+25021883|Phạm Hữu Ngọc Minh|27/09/2007|Nam|25021883@vnu.edu.vn|10|7.6|9.9|3.7|B+
+
+25021891|Trần Nhật Minh|30/01/2007|Nam|25021891@vnu.edu.vn|10|9.8|9.7|3.9|A
+
+25021899|Đồng Thị Trà My|07/10/2007|Nữ|25021899@vnu.edu.vn|10|8.7|9.7|3.8|A
+
+25021907|Phùng Tiến Nam|03/09/2007|Nam|25021907@vnu.edu.vn|10|9.1|9.6|3.8|A
+
+25021915|Vũ Bảo Ngọc|20/11/2007|Nữ|25021915@vnu.edu.vn|10|9.7|8.4|3.6|B+
+
+25021922|Bùi Đồng Nhất|12/12/2007|Nam|25021922@vnu.edu.vn|10|8.0|8.4|3.4|B+
+
+25021929|Nguyễn Thuận Phát|28/03/2007|Nam|25021929@vnu.edu.vn|10|9.1|9.6|3.8|A
+
+25021937|Nguyễn Văn Phong|06/02/2007|Nam|25021937@vnu.edu.vn|10|7.8|7.1|3.0|B
+
+25021938|Phạm Gia Phong|09/01/2007|Nam|25021938@vnu.edu.vn|10|7.9|9.4|3.6|B+
+
+25021943|Hoàng Minh Phúc|28/06/2007|Nam|25021943@vnu.edu.vn|10|7.2|8.0|3.2|B
+
+25021953|Nguyễn Hữu Nhật Quang|16/01/2007|Nam|25021953@vnu.edu.vn|10|9.4|7.8|3.4|B+
+
+25021961|Nguyễn Hồng Quân|13/01/2007|Nam|25021961@vnu.edu.vn|10|9.4|9.6|3.8|A
+
+25021971|Nguyễn Trọng Sơn|22/09/2007|Nam|25021971@vnu.edu.vn|10|8.8|9.0|3.6|B+
+
+25021979|Cung Đình Tiến|30/08/2007|Nam|25021979@vnu.edu.vn|10|7.1|9.6|3.6|B+
+
+25021986|Trịnh Anh Tú|20/05/2007|Nam|25021986@vnu.edu.vn|10|8.3|8.1|3.3|B+
+
+25021993|Nguyễn Thanh Tuấn|29/12/2007|Nam|25021993@vnu.edu.vn|10|9.6|9.5|3.8|A
+
+25021994|Phạm Minh Tuấn|13/03/2007|Nam|25021994@vnu.edu.vn|10|7.6|7.2|3.0|B
+
+25022001|Lê Sơn Tùng|29/10/2007|Nam|25022001@vnu.edu.vn|10|8.9|7.3|3.2|B
+
+25022009|Lê Tiến Thành|01/01/2007|Nam|25022009@vnu.edu.vn|10|9.7|7.8|3.4|B+
+
+25022017|Bùi Duy Thắng|19/05/2007|Nam|25022017@vnu.edu.vn|10|8.9|7.5|3.3|B
+
+25022024|Trần Thị Thu Thủy|29/10/2007|Nữ|25022024@vnu.edu.vn|10|7.3|7.7|3.1|B
+
+25022031|Hoàng Đức Trung|25/07/2007|Nam|25022031@vnu.edu.vn|10|9.2|9.9|3.9|A
+
+25022038|Nguyễn Thiên Trường|22/09/2007|Nam|25022038@vnu.edu.vn|10|9.8|8.1|3.5|B+
+
+25022045|Hoàng Anh Vũ|10/08/2007|Nam|25022045@vnu.edu.vn|10|7.3|8.7|3.4|B+
+
